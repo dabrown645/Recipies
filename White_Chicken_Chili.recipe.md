@@ -1,4 +1,5 @@
 # White Chicken Chili
+=====================
 
 Weight Watchers recipe 
 
@@ -11,7 +12,7 @@ Weight Watchers recipe
 ### Ingredients
 
 * 1 tbsp olive oil
-* 1 large uncooked onion(s), chopped
+* 1 large uncooked onion, chopped
 * 4 medium poblano chili, seeded and diced
 * 2 medium serrano chili, seeded and minced
 * 1 tbsp minced garlic
@@ -20,15 +21,15 @@ Weight Watchers recipe
 * 1 1/2 tsp ground cumin
 * 1 tsp ground coriander
 * 1 tsp dried oregano
-* 3 cup(s) reduced-sodium chicken broth
-* 2 pound(s) uncooked boneless skinless chicken breast(s)
-* 3-5 15oz cans cannellini beans, drained
+* 3 cup reduced-sodium chicken broth
+* 2 lb uncooked boneless skinless chicken breast
+* 3-5 can cannellini beans (15oz cans), drained
 * 2 tbsp fresh lime juice
-* 1/3 cup(s) cilantro, minced, fresh
+* 1/3 cup cilantro, minced, fresh
 * 1/2 cup salsa verde
-* 1/2 tsp cayenne pepper (optional)
-* 1/2 tsp sriracha pepper (optional)
-* 1-2 15oz cans of corn (optional)
+* 1/2 tsp cayenne pepper, (optional)
+* 1/2 tsp sriracha pepper, (optional)
+* 1-2 can corn (15oz cans),(optional)
 
 ### Directions
 
